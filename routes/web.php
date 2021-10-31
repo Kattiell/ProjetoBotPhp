@@ -21,14 +21,6 @@ Route::get('/album', function () {
     return view('album');
 });
 
-Route::get('/biblioteca', function () {
-    return view('biblioteca');
-});
-
-Route::get('/itens', function () {
-    return view('itens');
-});
-
 Route::get('/sobre', function () {
     return view('sobre');
 });
