@@ -48,21 +48,21 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="home.blade.php">Home</a>
+              <a class="nav-link active" aria-current="page" href="/">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="album.blade.php">Album</a>
+              <a class="nav-link" href="/Album">Album</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="sobre.blade.php">Sobre</a>
+              <a class="nav-link" href="/Sobre">Sobre</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Itens
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="formulario.blade.php">Formulario</a></li>
-                <li><a class="dropdown-item" href="contato.blade.php">Contato</a></li>
+                <li><a class="dropdown-item" href="/formulario">Formulario</a></li>
+                <li><a class="dropdown-item" href="/contato">Contato</a></li>
               </ul>
             </li>
           </ul>
