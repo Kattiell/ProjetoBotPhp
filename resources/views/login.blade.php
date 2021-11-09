@@ -7,11 +7,10 @@
     <meta name="author" content="">
 
     <title>Biblioteca</title>
-
-    <!-- Principal CSS do Bootstrap -->
+    
     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Estilos customizados para esse template -->
+
     <link href="signin.css" rel="stylesheet">
   </head>
 

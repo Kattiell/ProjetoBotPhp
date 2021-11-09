@@ -61,8 +61,8 @@
                                 Itens
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item nav-link active" href="/formulario">Formulario</a></li>
-                                <li><a class="dropdown-item" href="/contato">Contato</a></li>
+
+                                <li><a class="nav-link active   dropdown-item" href="/contato">Contato</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -130,6 +130,13 @@
             </button>
         </div>
 
+            <div class="container">
+                <div class="container-fluid py-5">
+                    <h1 class="display-5 fw-bold text-center" >Entre em Conato Conosco</h1>
+                    <h4 class="font-weight-light text-center"  >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quibusdam eligendi accusantium mollitia, nulla dolorum nam sapiente placeat velit laborum! Ab, voluptates odio qui placeat magnam odit. Pariatur, cumque porro.</h4>
+                </div>
+            </div>
+
         <div class="container">
             <form class="was">
                 <div class="mb-2">
@@ -164,13 +171,6 @@
                         <option value="2">Medio</option>
                         <option value="3">Bom</option>
                     </select>
-                </div>
-                <br>
-                <label for="validationTextarea">Caso queira nos enviar um print do site ou algum documento de texto apotando onde podemos melhorar, fique avontade!!</label>
-                <br>              
-                <div class="custom-file">
-                    <input type="file" class="custom-file-input" id="validatedCustomFile" required>
-                    <label class="custom-file-label" for="validatedCustomFile"></label>
                 </div>
                 <br>
                 <button type="submit" class="btn btn-primary">Enviar Dados</button>
